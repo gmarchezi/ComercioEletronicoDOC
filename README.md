@@ -11,7 +11,7 @@
 - [Gráficos](https://github.com/gmarchezi/ComercioEletronicoBack/graphs/contributors)
 
 
-## 2. Front
+## 2. FrontEnd
 
 * ### 2.1 [Repositório-FrontEnd](https://github.com/Guilherme-Bodart/ComercioEletronicoFront)
 
