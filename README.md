@@ -25,4 +25,4 @@
 - [Gráficos](https://github.com/Guilherme-Bodart/ComercioEletronicoFront/graphs/contributors)
 
 
-## 3. [Vídeo-Youtube]()
+## 3. [Vídeo-Youtube](https://youtu.be/mJN53qTSvME)
